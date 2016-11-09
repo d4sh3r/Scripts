@@ -1,4 +1,5 @@
 #!/bin/bash
+#d4sh&r 2016
 IP=$1
 function scan
 {
