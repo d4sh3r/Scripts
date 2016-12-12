@@ -1,5 +1,6 @@
 #!/bin/bash
 #d4sh&r 2016
+#litle script to scan all the ports from a target
 IP=$1
 function scan
 {
